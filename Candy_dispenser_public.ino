@@ -103,6 +103,7 @@ void loop(){
     for(int i = 0; i < 2048; i++) 
     {
       turn();
+      delay(2);
       if(i % 200 == 0)
       {
         circle();
@@ -112,6 +113,7 @@ void loop(){
     for(int i = 0; i < 2048; i++)
     {
       turn();
+      delay(2);
       if(i % 200 == 0)
       {
         circle();
