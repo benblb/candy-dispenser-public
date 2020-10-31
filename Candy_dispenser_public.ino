@@ -18,7 +18,7 @@ int candyCount = 20;  // Reboot device to reset candy counter (takes ~5 secs), c
 //WiFi auth, Telegram bot token
 String ssid = "WIFI_SSID_GOES_HERE";
 String pass = "WIFI_PASSWORD_GOES_HERE";
-String token = "TELEGRAM_BOT_TOKEN GOES HERE";  
+String token = "TELEGRAM_BOT_TOKEN_GOES_HERE";  
 
 //Stepper motor, digital pins 1-4
 int Pin1 = D1; 
