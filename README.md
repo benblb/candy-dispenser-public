@@ -1,6 +1,8 @@
-# candy-dispenser-public
+# Contactless candy dispenser
 
-This is the code associated with a 3D-printed candy dispenser created during COVID-19 Halloween. The program uses a sonar sensor for contactless candy distribution. 
+This is the code and 3D print files associated with a 3D-printed candy dispenser created during COVID-19 Halloween. The program uses a sonar sensor for contactless candy distribution. 
+
+# Code
 
 Designed to run on a Node MCU, the program distributes one piece of candy and send the admin a Telegram message when candy is running low. The program is provided here for anyone who would like to make a similar (or exactly the same) machine. 
 
